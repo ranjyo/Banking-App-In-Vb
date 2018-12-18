@@ -1,0 +1,58 @@
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.pdb
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.xml
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Add_New_Customer.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.BankingAppMDI.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Credit_Amount.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Debit_Amount.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Delete_Customer.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Login.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Resources.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_All_Customer_Details.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Single_Customer_Details.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.vbproj.GenerateResource.Cache
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.exe
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.xml
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.pdb
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe.config
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Update_Customer_Details.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe.config
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.pdb
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.xml
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Add_New_Customer.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.BankingAppMDI.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Credit_Amount.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Debit_Amount.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Delete_Customer.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Update_Customer_Details.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Login.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Resources.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_All_Customer_Details.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Customers_Daily_Reports.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Customer_Dynamic.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Single_Customer_Details.resources
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.vbproj.GenerateResource.Cache
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.exe
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.xml
+D:\New folder\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.pdb
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe.config
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.exe
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.xml
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.pdb
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.exe
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.pdb
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\bin\Debug\BankingDemoUsingMDI.xml
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Add_New_Customer.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.BankingAppMDI.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Credit_Amount.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Debit_Amount.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Delete_Customer.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Update_Customer_Details.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Login.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.Resources.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_All_Customer_Details.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Customers_Daily_Reports.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Customer_Dynamic.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.View_Single_Customer_Details.resources
+E:\Ranjit Programs 2017\Fork Infosystems\RANJIT  Programs\FORK C# VB ASP Demo Applications\Banking App In VB\BankingDemoUsingMDI\BankingDemoUsingMDI\obj\x86\Debug\BankingDemoUsingMDI.vbproj.GenerateResource.Cache
